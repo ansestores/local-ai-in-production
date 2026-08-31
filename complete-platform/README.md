@@ -2,7 +2,7 @@
 
 Everything from Episodes 1-3 wired together: a FastAPI server with a `/v1/ask` endpoint that answers questions from YOUR documents using only local models.
 
-▶ **Watch the full build:** (video link coming — magnet build)
+▶ **Watch the full build:** [Build a Private AI Platform in 60 Lines](https://youtu.be/rCTjZ9Q3lSo)
 
 ```bash
 ollama pull gemma4:12b && ollama pull nomic-embed-text

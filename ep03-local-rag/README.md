@@ -2,7 +2,7 @@
 
 Chat with your own documents, 100% offline: `ingest.py` (18 lines) embeds every paragraph with Ollama's `nomic-embed-text`; `ask.py` (24 lines) cosine-searches the top 3 chunks and answers with a grounding rule that refuses to guess.
 
-▶ **Watch:** [Local RAG Tutorial: Chat With Your Own Documents 100% Offline](https://youtu.be/T98q400jJ5s)
+▶ **Watch:** [Local RAG Tutorial: Chat With Your Own Documents 100% Offline](https://youtu.be/6Xb2LQKtJVU)
 
 ```bash
 ollama pull nomic-embed-text && ollama pull gemma4:12b

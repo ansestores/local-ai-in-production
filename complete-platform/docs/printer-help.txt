@@ -1,0 +1,10 @@
+Printer Troubleshooting
+
+The main printer is on the 2nd floor next to the coffee machine. Its queue name
+is FLOOR2-LASER.
+
+Paper jams: open the front tray, pull the paper in the direction of printing,
+never backwards. Toner warnings can be ignored for about 500 pages.
+
+If a print job is stuck, cancel it from the queue on your own machine first.
+Turning the printer off does not clear the queue - the job comes back.

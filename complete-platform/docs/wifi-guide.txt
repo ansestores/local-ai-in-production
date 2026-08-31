@@ -1,0 +1,9 @@
+Office Wi-Fi Guide
+
+The office network is called BlueOffice-5G. The guest network is BlueOffice-Guest
+and its password rotates every Monday; the current one is printed on the
+whiteboard in the kitchen.
+
+If your laptop keeps dropping the connection, forget the network and rejoin it.
+If that fails, the router in meeting room B reboots from the red switch on its
+left side. Wait ninety seconds before reconnecting.

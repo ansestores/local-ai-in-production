@@ -1,0 +1,18 @@
+[
+ {
+  "role": "user",
+  "text": "My name is Alex and I work on solar panels."
+ },
+ {
+  "role": "assistant",
+  "text": "Nice to meet you, Alex! That sounds like a very important and growing field. Do you focus on the installation side, the engineering and design, or perhaps research into new solar technologies?"
+ },
+ {
+  "role": "user",
+  "text": "What is my name and what do I work on?"
+ },
+ {
+  "role": "assistant",
+  "text": "Your name is Alex, and you work on solar panels."
+ }
+]
